@@ -1,0 +1,17 @@
+#img-caption{
+    width: 400px;
+  }
+  body{
+      background-color: black;
+      color: white;
+      font-family: calibiri;
+  }
+  #image{
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  .box.flex{
+    display: flex;
+    justify-content: center;
+  }  
